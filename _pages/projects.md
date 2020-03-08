@@ -1,8 +1,9 @@
 ---
-title: "Gallery"
+title: "Projects"
+classes: wide
 excerpt: "Highlight of my research moments"
 sitemap: false
-permalink: /gallery/
+permalink: /projects/
 ---
 
 ## Gallery
