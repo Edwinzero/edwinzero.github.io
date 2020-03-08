@@ -1,5 +1,6 @@
 # main links
 main:
+<<<<<<< HEAD
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
@@ -8,5 +9,15 @@ main:
     url: /year-archive/
   - title: "Gallery"
     url: /collection-archive/
+=======
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+>>>>>>> parent of e1fa142... layout
   # - title: "Sitemap"
   #   url: /sitemap/
