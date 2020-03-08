@@ -109,7 +109,9 @@ analytics:
 author:
   name             : "Shang Zhao"
   avatar           : "/assets/imgs/log.jpg"
-  bio              : "I am a Ph.D student from George Washington University. My research intrest includes real-time medical simulation, motion tracking and analysis, and medical data science."
+  bio              : "I am a Ph.D student from George Washington University.
+                      My research intrest includes real-time medical simulation, 
+                      motion tracking and analysis, and medical data science."
   location         : "Washington D.C"
   email            : "edwinz@gwmail.gwu.edu"
   links:
@@ -159,6 +161,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -285,7 +288,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: home
+      type: pages
     values:
       layout: single
       author_profile: true
