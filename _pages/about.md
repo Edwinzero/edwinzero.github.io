@@ -1,22 +1,18 @@
 ---
-title: "About me"
-excerpt: "I am a Ph.D candidate from George Washington University."
-sitemap: false
+title: 
+layout: single
+author_profile: true
+sitemap: about
+permalink: /about/
 ---
 
-## Demo Pages
-
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+### Work
+I work as an Associate with [IDinsight](http://idinsight.org/). I'm currently stationed in New Delhi, India.
 
 
----
+### Life
+I try to read, and write about what I read. Some of that finds its way here. I trek, lift, and bike.
+  
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+<span style="font-size:0.8em;"> This site is powered by [Jekyll](https://jekyllrb.com/) themed by [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) and the Github calendar is tweaked from [IonicaBizau](https://github.com/IonicaBizau/github-calendar). This is a personal weblog. The opinions expressed here represent my own and not those of my employer.
+</span>

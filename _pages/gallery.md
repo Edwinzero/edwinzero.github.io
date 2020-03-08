@@ -2,6 +2,7 @@
 title: "Gallery"
 excerpt: "Highlight of my research moments"
 sitemap: false
+permalink: /gallery/
 ---
 
 ## Gallery
