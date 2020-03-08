@@ -11,6 +11,7 @@ tags:
   - layout
 ---
 
+# Abstract
 This post should display a **header with a solid background color**, if the theme supports it.
 
 Non-square images can provide some unique styling issues.

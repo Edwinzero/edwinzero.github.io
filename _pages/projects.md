@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/
 ---
 
-## Gallery
+## Projects
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
