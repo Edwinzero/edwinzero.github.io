@@ -1,5 +1,6 @@
 ---
 title: "Robust Template-Based Non-Rigid Motion Tracking Using Local Coordinate Regularization"
+classes: wide
 header:
   overlay_color: "#333"
 categories:
