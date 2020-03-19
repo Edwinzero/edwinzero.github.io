@@ -10,7 +10,7 @@ tags:
   - publication
 ---
 
-Yao Lu, Shang Zhao, Naji Younes, James K Hahn
+Yao Lu, **Shang Zhao**, Naji Younes, James K Hahn
 
 _Computer Animation and Virtual Worlds_
 

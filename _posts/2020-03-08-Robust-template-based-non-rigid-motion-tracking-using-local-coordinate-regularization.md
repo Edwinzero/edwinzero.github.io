@@ -9,7 +9,7 @@ tags:
   - publication
 ---
 
-Wei Li, Shang Zhao, Xiao Xiao, James Hahn
+Wei Li, **Shang Zhao**, Xiao Xiao, James Hahn
 
 _WACV 2020_
 
