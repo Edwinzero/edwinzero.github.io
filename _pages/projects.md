@@ -15,11 +15,14 @@ gallery:
   - url: https://flic.kr/p/8a6VXP
     image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
     alt: "Fog in the trees"
+    
+{% include gallery id="gallery" caption="This is a second gallery example with images hosted externally." %}
 ---
 
 ## Projects
 
-{% raw %}{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}{% endraw %}
+
+
 
 <!-- | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
