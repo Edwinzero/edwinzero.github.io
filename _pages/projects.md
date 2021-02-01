@@ -4,6 +4,10 @@ classes: wide
 excerpt: "Highlight of my research moments"
 sitemap: false
 permalink: /projects/
+tags:
+  - gallery
+  - Post Formats
+  - tiled
 
 gallery:
   - url: https://flic.kr/p/8a6Ven
@@ -21,7 +25,7 @@ gallery:
 
 ## Projects
 
-{% include gallery id="gallery" caption="This is a second gallery example with images hosted externally." %}
+{% raw %}{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}{% endraw %}
 
 
 <!-- | Name                                        | Description                                           |
