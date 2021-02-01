@@ -72,8 +72,7 @@ The simulation framework consists of a main simulation module, an object represe
 
 
 <figure>
-  <img src="/assets/research_imgs/bodyfat_setup.png" alt="MoCap system setup" width=26%>
-  <img src="/assets/research_imgs/bodyfat.jpg" alt="MoCap system setup" width=72%>
+  <img src="/assets/research_imgs/bodyfat_setup1.png" alt="bodyfat system setup">
 </figure>
 We present a cost-efficient easy to use 3D human body scan system for medical applications using entertainment level depth sensors which provide reconstruction result with high degree of accuracy and reliability. 
 
@@ -104,8 +103,7 @@ The virtual content can be rendered in real-time, offering interactions with VR 
 
 
 <figure>
-  <img src="/assets/research_imgs/body_with_markers.jpg" width=45%>
-  <img src="/assets/research_imgs/deformation_graph_nodes.png" width=52.2%>
+  <img src="/assets/research_imgs/deformation_proxy.png">
 </figure>
 For articulated motion capture, the human skeleton can be either explicitly defined by attached markers or implicitly defined by volumetric embedded deformation graph. 
 
