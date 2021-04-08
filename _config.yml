@@ -20,7 +20,7 @@ title                    : "Shang Zhao ('v ')"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shang Zhao"
-description              : "Ph.D candidate in Computer Graphics from George Washington University."
+description              : "Ph.D in Computer Graphics from George Washington University."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Edwinzero/edwinzero.github.io"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Shang Zhao"
   avatar           : "/assets/imgs/bio400.png"
-  bio              : "Ph.D student in Computer Science @ George Washington University"
+  bio              : "Ph.D in Computer Science @ George Washington University"
   location         : "Washington D.C"
   email            : "edwinz@gwmail.gwu.edu"
   links:
